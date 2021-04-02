@@ -1,3 +1,3 @@
 # Git and Github course
 
-crash course
+crash coursegit status
